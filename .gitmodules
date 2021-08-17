@@ -1,3 +1,6 @@
 [submodule "iparty-frontend"]
 	path = iparty-frontend
 	url = https://github.com/theMarinac/iparty-v2-frontend
+[submodule "iparty_backend"]
+	path = iparty_backend
+	url = https://github.com/theMarinac/iparty-v2-backend
